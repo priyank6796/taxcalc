@@ -10,4 +10,4 @@ https://priyank6796.github.io/taxcalc
 
 ## How to use with Google assistant
 ## Okay Google, 
-## ”Talk to Football live”
+## ”Talk to Indian tax calculator”
